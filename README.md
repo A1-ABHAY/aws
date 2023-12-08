@@ -152,7 +152,7 @@ aws configure
 
 - after creating instance
 ``` bash
-aws ec2 describe-instances
+aws ec2 describe-instance
 ``` 
 
 ![Screenshot from 2023-11-27 17-35-01](https://github.com/KRIISHSHARMA/AWS/assets/86760658/e4ba62f0-42f5-4e8d-840f-41d32e1cf6a3)
