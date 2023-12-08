@@ -4,7 +4,7 @@ This folder contains screenshots of my work on the AWS practicals. These screens
 # AWS 
 
 ## What is cloud computing
-- Cloud computing is defined as the use of hosted services, such as data storage, servers, databases, networking, and software over the internet. Since cloud computing began, the world has witnessed an explosion of cloud-based applications and services in IT, which continue to expand. In 2021, almost every small and large application we use resides on the cloud, helping us save storage space, expenses, and time. This article discusses the types of cloud computing and 10 trends to watch out for in 2021. Table of Contents What Is Cloud Computing? Types of Cloud Computing Key Benefits and Challenges for Enterprises Top 10 Cloud CompCloud computing refers to the use of hosted services, such as data storage, servers, databases, networking, and software over the internet. The data is stored on physical servers, which are maintained by a cloud service provider. Computer system resources, especially data storage and computing power, are available on-demand, without direct management by the user in cloud computing.
+- Cloud computing is defined as the use of hosted services, such as data storage, servers, databases, networking, and software over the internet. Since cloud computing began, the world has witnessed an explosion of cloud-based applications and services in IT, which continue to expand.
 ## benfits 
 - faster time to market
 - scalability and flexibility
